@@ -1,7 +1,7 @@
 # isatamermo
-**Hola, mi nombre es Isabella Tamer Morán**
+Hola, mi nombre es **Isabella Tamer Morán**
 
-*Me gusta la fotografía, el diseño editorial, el cine, la música y experimentar con procesos creativos*
+Me gusta *la fotografía, el diseño editorial, el cine, la música y experimentar con procesos creativos*
 
 algunas cosas mas personales de mi son que:
 
